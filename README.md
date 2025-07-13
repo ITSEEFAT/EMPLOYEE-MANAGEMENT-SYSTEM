@@ -152,6 +152,7 @@ Feel free to connect! I’m always open to collaboration, learning, and building
 ## 📃 License
 
 This project is open-sourced under the **MIT License** — use it freely for personal or academic purposes.
+See the [LICENSE](./LICENSE) file for more details.
 
 ---
 
