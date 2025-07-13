@@ -143,7 +143,7 @@ A huge shoutout and heartfelt thanks to **[Akshay Saini](https://www.linkedin.co
 Aspiring Frontend Developer passionate about React, UI design, and building meaningful web experiences.
 
 📇 **LinkedIn:** [www.linkedin.com/in/seefat12](https://www.linkedin.com/in/seefat12)  
-📫 **Email:** [seefat12@gmail.com](mailto:seefat12@gmail.com)
+📫 **Email:** [seefat12@gmail.com](mailto:seefatprofessional@gmail.com)
 
 Feel free to connect! I’m always open to collaboration, learning, and building cool things together.
 
